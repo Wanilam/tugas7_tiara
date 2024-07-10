@@ -1,0 +1,1 @@
+cmd /k "C:\Users\62813\latihan\myenv\Scripts\activate.bat"
